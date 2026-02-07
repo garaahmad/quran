@@ -1,0 +1,5 @@
+# تجاهل جميع ملفات HTML و CSS و JavaScript من الإحصائيات
+*.html linguist-vendored
+*.xml linguist-vendored
+*.js linguist-vendored
+*.css linguist-vendored
